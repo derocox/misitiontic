@@ -109,4 +109,4 @@ while True:
         break
     else:
         print ("")
-        input("No has pulsado ninguna opción correcta...\nPresiona ENTER para continuar")
+        input("La opción digitada no es correcta...\nPresiona ENTER para continuar")
