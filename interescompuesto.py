@@ -15,7 +15,7 @@ if interes1<5 and interes2<5:
 		mes=mes+1
 	if capital_1_2>C3:
 		print("En el mes ", mes, " pueden hacer el negocio: ", capital_1_2, " es el rendimiento conjunto de la inversión.")
-	else:
-		print("Existe algún dato de interés inconsistente, hasta pronto")
+else:
+	print("Existe algún dato de interés inconsistente, hasta pronto")
 
 
