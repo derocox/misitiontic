@@ -13,4 +13,4 @@ elif cantidad == 4:
 elif cantidad == 5:
     print("decena de mil")
 elif cantidad == 6:
-    print("centena de mil")
+    print("centena de mil.")
